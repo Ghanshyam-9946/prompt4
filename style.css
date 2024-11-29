@@ -1,0 +1,209 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+html,body {
+    height: 100%;
+    width: 100%;
+}
+.main{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(215, 210, 210);
+    display: flex;
+}
+
+.slide1{
+    /* background-color: green; */
+    width: 30%;
+    height: 100%;
+    /* padding: 4% 6%; */
+    display: flex;
+    flex-direction: column;
+    /* gap: 5%; */
+    justify-content: center;
+    align-items: center;
+}
+.slide2{
+    /* background-color: red; */
+    width: 40%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.slide3{
+    /* background-color: purple; */
+    width: 30%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+.p1{
+    
+    height: 27%;
+    width: 83%;
+    background-color: navajowhite;
+    margin-right: -5%;
+    border-top-left-radius:70px ;
+    background-image: url(HD-wallpaper-man-sitting-in-front-of-computer-setup.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.p2{
+    height: 36%;
+    width: 100%;
+    background-color: rgb(184, 75, 36);
+    padding-left: 10%;
+    /* padding-left: 6%; */
+    color: white;
+}
+.p2 h3 {
+    font-size: 30px;
+    margin-top: 20px;
+}
+.p2 p{
+    margin-top: 10px;
+}
+.p3{
+    height: 27%;
+    width: 83%;
+    background-color: rgb(15, 17, 40);
+    margin-right: -5%;
+    border-bottom-right-radius: 70px;
+    padding-top: 3%;
+    padding-left: 2%;
+    font-size: 15px;
+    color: white;
+}
+.p3 li { 
+    /* color: black; */
+    margin-top: 5px;
+
+}
+
+.p4{
+    height: 27%;
+    width: 83%;
+    background-color: rgb(15, 17, 40);
+    margin-right: 5%;
+    border-top-right-radius: 70px;
+    /* background: transparent; */
+    /* font-size: 10px; */
+    align-items: center;
+    justify-content: center;
+}
+
+.p4 img {
+    height: 210px;
+    width: 330px;
+    /* background: transparent; */
+
+}
+.p5{
+    height: 36%;
+    width: 89%;
+    background-color: orange;
+    margin-right: 11%;
+    background-image: url(istockphoto-2094337676-612x612.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* font-size: 10px; */
+}
+.p6{
+    height: 27%;
+    width: 83%;
+    background-color: rgb(15, 17, 40);
+    margin-right: 5%;
+    border-bottom-left-radius: 70px;
+}
+.p6 h3 {
+    font-size: 30px;
+    color: white;
+    margin-top: 30px;
+    margin-left: 90px;
+}
+#head {
+    margin-left: 55px;
+    margin-top: 1px;
+    color: rgb(184, 75, 36);
+}
+.p6 p{
+    color: white;
+    margin-top: 10px;
+    margin-left: 55px;
+    width: 260px;
+}
+
+.p7{
+    
+    height: 27%;
+    width: 83%;
+}
+
+.p7 img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    margin-left: 42%;
+}
+.p7 h3 {
+    color: black;
+    margin-top: 1px;
+    font-size: 30px;
+    margin-left: 30%;
+    margin-top: 5px;
+}
+#last {
+    margin-left: 24%;
+    color: rgb(184, 75, 36);
+}
+.p8{
+    background-color: rgb(224, 102, 57);
+height: 35.96%;
+width: 100%;
+}
+.p8 h3 {
+    font-size: 45px;
+    margin-top: 45px;
+    margin-left: 30px;
+}
+
+.p8 p {
+    margin-left: 35px;
+    width: 500px;
+    margin-top: 20px;
+}
+.p8 li {
+    margin-top: 15px;
+    margin-left: 35px;
+    line-height: 15px;
+}
+
+.p9{
+    
+    height: 27%;
+    width: 83%;
+    
+}
+
+.p9 img{
+    margin-left: 32%;
+    height: 170px;
+    width: 170px;
+    /* color: black; */
+}
+.p9 p{
+    /* width: 50px; */
+    color: black;
+    margin-top: 8px;
+    margin-left: 100px;
+    font-size: 20px;
+}
